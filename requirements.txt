@@ -1,0 +1,8 @@
+pycryptodome==3.20.0
+python-dotenv==1.0.1
+modelscope
+sherpa_onnx
+sounddevice
+soundfile
+Agently==3.2.2.11
+PyQt5==5.15.10
